@@ -100,14 +100,27 @@ function createFeatures(earthquakeData) {
     }
   });
  
- 
+ // Store the tectonic plates GeoJSON URL.
+ let tectonicUrl = "https://raw.githubusercontent.com/fraxen/tectonicplates/master/GeoJSON/PB2002_boundaries.json";
+
+// Perform a GET request to the tectonic plates URL.
+d3.json(tectonicUrl).then(function (tectonicData) {
+  // Create a GeoJSON layer for the tectonic plates data.
+  let tectonicPlates = L.geoJSON(tectonicData, {
+    style: {
+      color: "orange", // 
+      weight: 2
+    }
+});
 
   // Overlays that can be toggled on or off
 let overlayMaps = {
     Earthquakes: earthquakes,
+    Tectonic: tectonicPlates
       };
 
 // Pass our map layers into our layer control.
 // Add the layer control to the map.
 L.control.layers(baseMaps, overlayMaps).addTo(myMap);
+});
 }
