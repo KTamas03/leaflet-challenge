@@ -60,7 +60,8 @@ I completed the following steps to create the webpage:
 
 7. CSS Styling (style_part1.css):
     - Styled map elements with CSS for improved visual appeal and layout.
-
+  
+The result is an interactive webpage displaying earthquake data on a map. Circle markers represent earthquake locations, with size and color indicating magnitude and depth. A legend provides depth information, and the map is initially centered around India with OpenStreetMap as the base layer:
 ![Part 1 Map](https://github.com/KTamas03/leaflet-challenge/assets/132874272/18617086-5aae-4c2d-a21f-5a33f116aeaa)
 
 **My Working Files:**
