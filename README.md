@@ -111,7 +111,7 @@ The result is an interactive webpage displaying earthquake data and tectonic pla
   - logic_part2.js
   - index_part2.html
 
-Textonic plates json: https://raw.githubusercontent.com/fraxen/tectonicplates/master/GeoJSON/PB2002_boundaries.json
+Tectonic plates json: https://raw.githubusercontent.com/fraxen/tectonicplates/master/GeoJSON/PB2002_boundaries.json
 
 
 ## Getting Started
