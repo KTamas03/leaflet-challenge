@@ -57,7 +57,7 @@ These are the steps I took to completing this section:
   - logic_part2.js
   - index_part2.html
 
-Textonic plates json: https://github.com/fraxen/tectonicplates/blob/master/GeoJSON/PB2002_boundaries.json?short_path=43acb58
+Textonic plates json: https://raw.githubusercontent.com/fraxen/tectonicplates/master/GeoJSON/PB2002_boundaries.json
 
 
 ## Getting Started
