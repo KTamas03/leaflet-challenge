@@ -3,8 +3,6 @@
 
 In this scenario, I built an interactive map to show Earthquakes in different locations on Earth over the last 7 days. This was achieved by using Javascript, CSS and HTML coding.
 
-![Part 1 Map](https://github.com/KTamas03/leaflet-challenge/assets/132874272/cb3883b6-023c-4966-a50b-0f9ec96a529e)
-
 The geoJSON data was sourced from: https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson
 
 **Repository Folders and Contents:**
@@ -38,6 +36,8 @@ These are the steps I took to completing this section:
 - In the app.js file:
   - I created a function ....
 
+![Part 1 Map](https://github.com/KTamas03/leaflet-challenge/assets/132874272/18617086-5aae-4c2d-a21f-5a33f116aeaa)
+
 **My Working Files:**
   - style_part1.css
   - logic_part1.js
@@ -48,6 +48,9 @@ These are the steps I took to completing this section:
 These are the steps I took to completing this section:
 - In the bonus.js file:
   - I created a function
+
+![Part 2 Map](https://github.com/KTamas03/leaflet-challenge/assets/132874272/bedc7346-c7b6-4ce4-8299-7a1067cfb777)
+
 
 **My Working Files:**
   - style_part2.css
