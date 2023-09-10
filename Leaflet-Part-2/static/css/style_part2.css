@@ -1,14 +1,14 @@
-/* CSS for the container that holds both the heading and the map */
+/* styling for the container that holds both the heading and the map */
 #map-container {
   position: relative;
   width: 100%;
-  height: 1000px; /* Adjust the height as needed */
+  height: 1000px; /* Adjust the height */
 }
 
 /* styling for map heading */
 #map-heading {
   position: absolute;
-  top: 10px; /* Adjust the top position as needed */
+  top: 10px; /* Adjust the top position */
   left: 50%;
   transform: translateX(-50%);
   font-size: 24px;
