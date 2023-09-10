@@ -1,7 +1,7 @@
 ## leaflet-challenge
 **Module 15 Challenge - Mapping**
 
-In this scenario, I built an interactive map to show Earthquakes in different locations on Earth over the last 7 days. This was achieved by using Javascript, CSS and HTML coding.
+In this scenario, I built two interactive maps to show Earthquakes in different locations on Earth over the last 7 days. This was achieved by using Javascript, CSS and HTML coding.
 
 The Earthquake data was sourced from the United States Geological Survey (USGS) API: https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson
 
