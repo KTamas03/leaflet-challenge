@@ -3,7 +3,7 @@
 
 In this scenario, I built an interactive map to show Earthquakes in different locations on Earth over the last 7 days. This was achieved by using Javascript, CSS and HTML coding.
 
-The geoJSON data was sourced from: https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson
+The Earthquake data was sourced from: https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson
 
 **Repository Folders and Contents:**
 - Leaflet-Part-1:
